@@ -1,9 +1,9 @@
-[{
+{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.recipe_app",
+    "package_name": "com.example.gaurav.temp",
     "sha256_cert_fingerprints":
-    ["B6:94:02:F5:90:8A:DA:79:F4:B7:E9:12:A0:CA:57:35:FB:88:45:A9:4B:09:84:83:BA:CB:AE:ED:EB:91:C9:1E"]
+    ["B5:10:C4:8C:96:EB:92:5F:6D:AA:A1:EB:70:62:D9:A6:A3:12:77:F9:8E:F3:4C:7B:C2:C0:9A:BA:08:B7:3E:A6"]
   }
 }]
